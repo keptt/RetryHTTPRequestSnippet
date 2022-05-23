@@ -1,0 +1,1 @@
+Simple snippets that showcase repeated get request in case of the failure of the first one
